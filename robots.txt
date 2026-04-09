@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://busantherapy.vercel.app/sitemap.xml
